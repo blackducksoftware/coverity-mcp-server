@@ -1,0 +1,23 @@
+{
+  "name": "@blackducksoftware/coverity-mcp-server-registry",
+  "version": "1.0.0",
+  "description": "MCP Registry metadata for Black Duck Coverity MCP Server",
+  "mcpName": "com.blackduck/coverity-mcp-server",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blackducksoftware/coverity-mcp-server"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "black-duck",
+    "coverity",
+    "security",
+    "quality",
+    "sast",
+    "vulnerability-scanning",
+    "quality-scanning"
+  ],
+  "author": "Black Duck Software",
+  "license": "SEE LICENSE IN LICENSE"
+}

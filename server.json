@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.blackduck/coverity-mcp-server",
+  "title": "Coverity MCP Server",
+  "description": " An MCP server that provides the ability to run Coverity analysis and retrieve results.",
+  "version": "2026.6.0",
+  "repository": {
+    "url": "https://github.com/blackducksoftware/coverity-mcp-server",
+    "source": "github"
+  },
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@black-duck/coverity-mcp-server",
+      "version": "2026.6.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}

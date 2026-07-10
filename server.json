@@ -3,7 +3,7 @@
   "name": "com.blackduck/coverity-mcp-server",
   "title": "Coverity MCP Server",
   "description": " An MCP server that provides the ability to run Coverity analysis and retrieve results.",
-  "version": "2026.6.0",
+  "version": "2026.6.1",
   "repository": {
     "url": "https://github.com/blackducksoftware/coverity-mcp-server",
     "source": "github"
@@ -12,7 +12,7 @@
     {
       "registryType": "npm",
       "identifier": "@black-duck/coverity-mcp-server",
-      "version": "2026.6.0",
+      "version": "2026.6.1",
       "transport": {
         "type": "stdio"
       }
